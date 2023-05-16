@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/albinafox.github.io/goit-react-hw-01-components/static/css/main.ef291bbb.css",
-    "main.js": "/albinafox.github.io/goit-react-hw-01-components/static/js/main.5877a48a.js",
-    "index.html": "/albinafox.github.io/goit-react-hw-01-components/index.html",
-    "main.ef291bbb.css.map": "/albinafox.github.io/goit-react-hw-01-components/static/css/main.ef291bbb.css.map",
-    "main.5877a48a.js.map": "/albinafox.github.io/goit-react-hw-01-components/static/js/main.5877a48a.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.7acaea2f.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.ed0c2c73.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.7acaea2f.css.map": "/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
+    "main.ed0c2c73.js.map": "/goit-react-hw-01-components/static/js/main.ed0c2c73.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef291bbb.css",
-    "static/js/main.5877a48a.js"
+    "static/css/main.7acaea2f.css",
+    "static/js/main.ed0c2c73.js"
   ]
 }
